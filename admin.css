@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    header{
+    position: fixed;
+    background:#22242a ;
+    padding: 20px;
+    width: 100%;
+    height: 30px;
+    }
+    
+    .left_side h3{
+    
+      color: #fff;
+      margin: 0;
+      text-transform: uppercase;
+      font-size: 22px;
+      font-weight: 900;  
+    }
+    
+    .left_side span{
+    color: #198303;
+    
+    }
+    .side-nav {
+    
+        background:grey;
+        margin-top: 70px;
+        padding-top: 30px;
+        position: fixed;
+        left: 0;
+        width: 250px;
+        height: 100%;
+        transition: 0.5s;
+        transition-property: left;
+    
+    }
+    .logo
+    {
+        text-align: center;
+    }
+    .side-nav .image{
+        width: 100px;
+        height: 100px;
+        border-radius: 100px;
+        margin-bottom: 10px;
+    }
+    .side-nav a{
+    
+        color: #fff;
+        display: block;
+        width: 100%;
+        line-height: 60px;
+        text-decoration: none;
+        padding-left: 40px;
+        box-sizing: border-box;
+        transition: 0.5s;
+        transition-property: background;
+    }
+    
+    .side-nav a:hover{
+        background: #0a7e96;
+    }
+    
+    .side-nav i{
+        padding: right 10px; ;
+    
+    }
+    
+    
+    
+    .banner{
+    
+        margin-left: 250px;
+        background-image: url(background.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        transition: 0.5s;
+    }
+    
+    #check
+    {
+        display: none;
+    }

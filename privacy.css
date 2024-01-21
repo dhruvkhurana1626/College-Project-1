@@ -1,0 +1,12 @@
+.bodyofpriv{
+        background-color: white;
+        background-size: cover;
+        height: 1200px;
+    
+}
+
+.prvacy{
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: rgba(255, 255, 255, 0.337);
+}

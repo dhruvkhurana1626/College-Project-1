@@ -1,0 +1,48 @@
+#about1{
+    margin-left: 140px;
+    text-align: left;
+    font-size: 20px;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px black;
+
+}
+
+.content{
+    margin-top: 100px;
+    text-align: left;
+    
+    display: flex;
+    padding-left: 100px;
+    padding-right: 60%;
+}
+
+.peep{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+
+.lol{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.btn6 {
+    font-size: 20px;
+    -webkit-text-stroke: 0.3px black;
+    margin-left: 600px;
+    color:white;
+    border-radius: 10px;
+    height: 60px;
+    width: 300px;
+    padding:8px 22px;
+    background:black;
+    cursor: pointer;
+    transition: 0.9s;
+    border:white;
+}

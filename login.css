@@ -1,0 +1,15 @@
+.btn7
+{
+    font-size: 20px;
+    
+    margin-left: 500px;
+    color:white;
+    border-radius: 10px;
+    height: 60px;
+    width: 500px;
+    padding:8px 22px;
+    background:grey;
+    cursor: pointer;
+    transition: 0.9s;
+    border:white;
+}
